@@ -73,9 +73,6 @@ h1, h2, h3, h4, p {
 
 #gift-img-genius:hover {
     background-image: url("images/genius.gif");
-	
-	/* background-position: center; */
-	/* background-size: cover; */
 }
 
 #gift-img-badass:hover {
@@ -86,8 +83,7 @@ h1, h2, h3, h4, p {
 #gift-img-cheers:hover {
     background-image: url("images/cheers.gif");
 }
-/* #gift-img-badass { */
-	/* width: 415px; */
+
 #footer {
     font-style: italic;
     width: 400px;
